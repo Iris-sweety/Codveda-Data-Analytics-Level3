@@ -163,9 +163,10 @@ File → Open → churn_dashboard.pbix
 
 3. View published dashboard
 ```
-https://app.powerbi.com → Your workspace → churn_dashboard
+https://app.powerbi.com/groups/me/reports/31678763-ea0f-427f-a9d0-e68a52b31943?experience=power-bi
 ```
 
 ---
+
 
 *Codveda Technologies Internship — Data Analytics | 2026*
