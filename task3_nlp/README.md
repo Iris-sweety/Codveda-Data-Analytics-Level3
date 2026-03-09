@@ -222,9 +222,10 @@ python download_nltk.py
 
 3. Run sentiment analysis
 ```bash
-python sentiment.py
+python sentiment_analysis.py
 ```
 
 ---
+
 
 *Codveda Technologies Internship — Data Analytics | 2026*
